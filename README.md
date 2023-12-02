@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Yazancod
+- 👀 I’m interested in any kind of game
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on games
+- 📫 How to reach me ...
